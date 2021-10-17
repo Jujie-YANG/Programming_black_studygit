@@ -4,8 +4,5 @@
   "main": "index.js",
   "repository": "git@github.com:Jujie-YANG/Programming_black_studygit.git",
   "author": "Jujie-YANG <Yangjujie3619@outlook.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "eslint": "^8.0.1"
-  }
+  "license": "MIT"
 }
